@@ -1,0 +1,17 @@
+C:\Users\ersin.canli\Source\Repos\Not\bin\Debug\CNLPingDemo.exe.config
+C:\Users\ersin.canli\Source\Repos\Not\bin\Debug\CNLPingDemo.exe
+C:\Users\ersin.canli\Source\Repos\Not\bin\Debug\CNLPingDemo.pdb
+C:\Users\ersin.canli\Source\Repos\Not\obj\Debug\Not.CnlPingDemo.resources
+C:\Users\ersin.canli\Source\Repos\Not\obj\Debug\CNLPingDemo.Properties.Resources.resources
+C:\Users\ersin.canli\Source\Repos\Not\obj\Debug\CNLPingDemo.csproj.GenerateResource.cache
+C:\Users\ersin.canli\Source\Repos\Not\obj\Debug\CNLPingDemo.exe
+C:\Users\ersin.canli\Source\Repos\Not\obj\Debug\CNLPingDemo.pdb
+C:\Users\ersin.canli\Documents\GitHub\PingDemo\bin\Debug\CNLPingDemo.exe.config
+C:\Users\ersin.canli\Documents\GitHub\PingDemo\bin\Debug\CNLPingDemo.exe
+C:\Users\ersin.canli\Documents\GitHub\PingDemo\bin\Debug\CNLPingDemo.pdb
+C:\Users\ersin.canli\Documents\GitHub\PingDemo\obj\Debug\Not.CnlPingDemo.resources
+C:\Users\ersin.canli\Documents\GitHub\PingDemo\obj\Debug\CNLPingDemo.Properties.Resources.resources
+C:\Users\ersin.canli\Documents\GitHub\PingDemo\obj\Debug\CNLPingDemo.csproj.GenerateResource.cache
+C:\Users\ersin.canli\Documents\GitHub\PingDemo\obj\Debug\CNLPingDemo.exe
+C:\Users\ersin.canli\Documents\GitHub\PingDemo\obj\Debug\CNLPingDemo.pdb
+C:\Users\ersin.canli\Documents\GitHub\PingDemo\obj\Debug\CNLPingDemo.csprojResolveAssemblyReference.cache

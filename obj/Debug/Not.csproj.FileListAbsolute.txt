@@ -1,0 +1,9 @@
+C:\Users\ersin.canli\Source\Repos\Not\bin\Debug\Not.exe.config
+C:\Users\ersin.canli\Source\Repos\Not\bin\Debug\Not.exe
+C:\Users\ersin.canli\Source\Repos\Not\bin\Debug\Not.pdb
+C:\Users\ersin.canli\Source\Repos\Not\obj\Debug\Not.csprojAssemblyReference.cache
+C:\Users\ersin.canli\Source\Repos\Not\obj\Debug\Not.Form1.resources
+C:\Users\ersin.canli\Source\Repos\Not\obj\Debug\Not.Properties.Resources.resources
+C:\Users\ersin.canli\Source\Repos\Not\obj\Debug\Not.csproj.GenerateResource.cache
+C:\Users\ersin.canli\Source\Repos\Not\obj\Debug\Not.exe
+C:\Users\ersin.canli\Source\Repos\Not\obj\Debug\Not.pdb
